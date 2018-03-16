@@ -1,2 +1,2 @@
-SpringMVC+mybatis+Maven整合
-原始链接：https://segmentfault.com/a/1190000008711738
+SpringMVC+mybatis+Maven脮没潞脧
+鍘熸枃閾炬帴锛歨ttps://segmentfault.com/a/1190000008711738
